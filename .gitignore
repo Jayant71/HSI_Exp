@@ -11,3 +11,5 @@ wheels/
 
 IndianPines/
 .claude/
+results/
+datasets/
